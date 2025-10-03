@@ -1,0 +1,27 @@
+@media (max-width: 768px) {
+    .qr-card {
+        width: 50%;
+    }
+
+    .qr-card h1 {
+        font-size: 19px;
+    }
+
+    .qr-card p {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 500px) {
+    .qr-card {
+        width: 60%;
+    }
+
+    .qr-card h1 {
+        font-size: 17px;
+    }
+
+    .qr-card p {
+        font-size: 12px;
+    }
+}
